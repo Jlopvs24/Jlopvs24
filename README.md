@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DE_TU_BANNER.png" alt="Juan Lopez Banner" width="100%" />
+  <img src="Juan_Lopez_Banner.png" alt="Juan Lopez Banner" width="100%" />
 </div>
 
 # Hello! 👋 I'm Juan López
